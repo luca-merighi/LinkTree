@@ -30,9 +30,9 @@ export default function Home() {
 
         <section className="w-full flex flex-col gap-4 items-center">
           <Link
-            url=""
+            url="https://luca-merighi.vercel.app/"
             icon={<FaUser />}
-            text="Portfólio (TODO)" />
+            text="Portfólio" />
           <Link
             url="https://www.linkedin.com/in/luca-merighi-8305b4248/"
             icon={<FaLinkedin />}
